@@ -1,0 +1,5 @@
+# انسخ هذا الملف إلى android/key.properties عند بناء نسخة المتجر الموقعة (Release AAB)
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+storeFile=upload-keystore.jks
